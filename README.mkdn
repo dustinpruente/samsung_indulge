@@ -68,3 +68,5 @@ When you want to rebuild with new changes or after syncing to the latest CM src 
     $ make clean clobber
 
 
+Thank You PlayfulGod for all you've done to get here. I'm going to try to pick up where you left off, and hopefully bring Gingerbread
+to the SCH-R910. 
